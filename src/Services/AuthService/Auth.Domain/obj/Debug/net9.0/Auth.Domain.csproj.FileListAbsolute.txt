@@ -1,0 +1,12 @@
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\bin\Debug\net9.0\Auth.Domain.deps.json
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\bin\Debug\net9.0\Auth.Domain.dll
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\bin\Debug\net9.0\Auth.Domain.pdb
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.AssemblyInfoInputs.cache
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.AssemblyInfo.cs
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.csproj.CoreCompileInputs.cache
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.sourcelink.json
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.dll
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\refint\Auth.Domain.dll
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.pdb
+D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\ref\Auth.Domain.dll
