@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rh7n4MhNVbs=",
+  "dgSpecHash": "VWtClmAu/A8=",
   "success": true,
-  "projectFilePath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.API\\Auth.API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.API\\Auth.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

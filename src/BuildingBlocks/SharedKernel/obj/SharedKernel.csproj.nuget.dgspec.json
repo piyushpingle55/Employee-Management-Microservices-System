@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProject\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj": {}
   },
   "projects": {
-    "D:\\MyProject\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
         "projectName": "SharedKernel",
-        "projectPath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\BuildingBlocks\\SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

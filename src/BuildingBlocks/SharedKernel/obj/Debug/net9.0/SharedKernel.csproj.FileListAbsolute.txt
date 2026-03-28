@@ -10,3 +10,15 @@ D:\MyProject\Employee-Management-Microservices-System\src\BuildingBlocks\SharedK
 D:\MyProject\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\refint\SharedKernel.dll
 D:\MyProject\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.pdb
 D:\MyProject\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\ref\SharedKernel.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\bin\Debug\net9.0\SharedKernel.deps.json
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\bin\Debug\net9.0\SharedKernel.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\bin\Debug\net9.0\SharedKernel.pdb
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\refint\SharedKernel.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\SharedKernel.pdb
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\BuildingBlocks\SharedKernel\obj\Debug\net9.0\ref\SharedKernel.dll

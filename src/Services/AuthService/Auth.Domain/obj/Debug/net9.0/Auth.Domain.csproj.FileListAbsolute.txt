@@ -10,3 +10,15 @@ D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\A
 D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\refint\Auth.Domain.dll
 D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.pdb
 D:\MyProject\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\ref\Auth.Domain.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\bin\Debug\net9.0\Auth.Domain.deps.json
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\bin\Debug\net9.0\Auth.Domain.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\bin\Debug\net9.0\Auth.Domain.pdb
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\refint\Auth.Domain.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\Auth.Domain.pdb
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.Domain\obj\Debug\net9.0\ref\Auth.Domain.dll

@@ -4752,11 +4752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Infrastructure\\Auth.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Infrastructure\\Auth.Infrastructure.csproj",
       "projectName": "Auth.Infrastructure",
-      "projectPath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Infrastructure\\Auth.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Infrastructure\\Auth.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4771,11 +4771,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Application\\Auth.Application.csproj": {
-              "projectPath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Application\\Auth.Application.csproj"
+            "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Application\\Auth.Application.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Application\\Auth.Application.csproj"
             },
-            "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Domain\\Auth.Domain.csproj": {
-              "projectPath": "D:\\MyProject\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Domain\\Auth.Domain.csproj"
+            "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Domain\\Auth.Domain.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\AuthService\\Auth.Domain\\Auth.Domain.csproj"
             }
           }
         }

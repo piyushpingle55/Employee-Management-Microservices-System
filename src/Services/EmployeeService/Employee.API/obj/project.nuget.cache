@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjMA6uOlgXA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Devops Assignment\\My Project\\Microservice Architecture\\Employee-Management-Microservices-System\\src\\Services\\EmployeeService\\Employee.API\\Employee.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
