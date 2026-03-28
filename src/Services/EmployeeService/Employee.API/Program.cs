@@ -1,8 +1,23 @@
+using Microsoft.EntityFrameworkCore;
+using Employee.Infrastructure.Repositories;
+using Employee.Application.Interfaces;
+using Employee.Application.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+builder.Services.AddDbContext<EmployeeDbContext>(options =>
+    options.UseSqlServer("Server=.;Database=EmployeeDataBase;Trusted_Connection=True;TrustServerCertificate=True;"));
+
+builder.Services.AddScoped<EmployeeRepository>();
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
