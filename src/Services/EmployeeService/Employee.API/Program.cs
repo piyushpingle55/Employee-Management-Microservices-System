@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Employee.Infrastructure.Data;
 using Employee.Infrastructure.Repositories;
 using Employee.Application.Interfaces;
 using Employee.Application.Services;
@@ -7,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
 
 builder.Services.AddDbContext<EmployeeDbContext>(options =>
     options.UseSqlServer("Server=.;Database=EmployeeDataBase;Trusted_Connection=True;TrustServerCertificate=True;"));
@@ -24,10 +24,13 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();  // Disabled for local development
+app.MapControllers();
+
+app.Run();
 
 var summaries = new[]
 {

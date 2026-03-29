@@ -1,0 +1,77 @@
+# RUN DATABASE SETUP SCRIPT
+
+## WHERE TO RUN THE POWERSHELL SCRIPT
+
+### Option 1: Run in VS Code Terminal (Recommended)
+1. Open VS Code
+2. Go to Terminal → New Terminal
+3. Navigate to your project folder:
+   ```
+   cd "C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System"
+   ```
+4. Run the PowerShell command below
+
+### Option 2: Run in Windows PowerShell
+1. Press Win + R
+2. Type: `powershell`
+3. Navigate to your project folder:
+   ```
+   cd "C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System"
+   ```
+4. Run the PowerShell command below
+
+---
+
+## POWERSHELL COMMAND TO RUN
+
+Copy and paste this command in your PowerShell terminal:
+
+```powershell
+# Install SQL Server module (if not already installed)
+Install-Module -Name SqlServer -Force -AllowClobber
+
+# Run the database setup script
+Invoke-Sqlcmd -ServerInstance "." -Database "master" -InputFile "DATABASE_SETUP.sql"
+```
+
+---
+
+## ALTERNATIVE: Using sqlcmd (if you have it installed)
+
+```powershell
+sqlcmd -S . -E -i "DATABASE_SETUP.sql"
+```
+
+---
+
+## WHAT THIS DOES
+
+1. **Creates Database**: `EmployeeDataBase`
+2. **Creates Table**: `Employees` with all columns
+3. **Creates Indexes**: For performance
+4. **Inserts Sample Data**: 3 test employees
+5. **Verifies**: Shows the data
+
+---
+
+## AFTER RUNNING
+
+Once the script completes successfully:
+1. Your database is ready!
+2. Start the API: `dotnet run`
+3. Test: `http://localhost:5104/api/employee`
+4. Should return 3 employees
+
+---
+
+## TROUBLESHOOTING
+
+If you get permission errors:
+- Run PowerShell as Administrator
+- Make sure SQL Server is running
+- Check your SQL Server instance name (default is ".")
+
+If you get connection errors:
+- Verify SQL Server is installed and running
+- Check if you have SQL Server Management Studio
+- Use SSMS to run the script manually instead

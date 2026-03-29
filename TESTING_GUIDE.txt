@@ -1,0 +1,123 @@
+TESTING EMPLOYEE SERVICE API
+=============================
+
+API URL: http://localhost:5104/api/employee
+
+Swagger UI: http://localhost:5104/swagger/index.html
+(Open this in your browser to test interactively!)
+
+
+TEST WITH POWERSHELL
+====================
+
+1. GET ALL EMPLOYEES
+--------------------
+$response = Invoke-RestMethod -Uri "http://localhost:5104/api/employee" -Method Get
+$response | ConvertTo-Json
+
+
+2. CREATE NEW EMPLOYEE
+----------------------
+$body = @{
+    Name = "John Smith"
+    Email = "john@example.com"
+    Salary = 50000
+} | ConvertTo-Json
+
+Invoke-RestMethod -Uri "http://localhost:5104/api/employee" `
+    -Method Post `
+    -ContentType "application/json" `
+    -Body $body
+
+
+3. GET EMPLOYEE BY ID
+---------------------
+$employeeId = "YOUR_EMPLOYEE_ID_HERE"
+Invoke-RestMethod -Uri "http://localhost:5104/api/employee/$employeeId" -Method Get
+
+
+4. UPDATE EMPLOYEE
+------------------
+$body = @{
+    Id = "YOUR_EMPLOYEE_ID"
+    Name = "John Updated"
+    Email = "john.updated@example.com"
+    Salary = 60000
+} | ConvertTo-Json
+
+Invoke-RestMethod -Uri "http://localhost:5104/api/employee" `
+    -Method Put `
+    -ContentType "application/json" `
+    -Body $body
+
+
+5. DELETE EMPLOYEE
+------------------
+$employeeId = "YOUR_EMPLOYEE_ID"
+Invoke-RestMethod -Uri "http://localhost:5104/api/employee/$employeeId" -Method Delete
+
+
+ENDPOINTS SUMMARY
+=================
+
+GET    /api/employee              - Get all employees
+POST   /api/employee              - Create new employee
+GET    /api/employee/{id}         - Get employee by ID
+PUT    /api/employee              - Update employee
+DELETE /api/employee/{id}         - Delete employee
+
+
+EXPECTED RESPONSES
+==================
+
+CREATE (POST):
+Response: 200 OK
+
+GET ALL:
+Response: 200 OK
+Body: [
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "John Smith",
+    "email": "john@example.com",
+    "salary": 50000
+  }
+]
+
+GET BY ID:
+Response: 200 OK
+Body: {
+  "id": "550e8400-e29b-41d4-a716-446655440000",
+  "name": "John Smith",
+  "email": "john@example.com",
+  "salary": 50000
+}
+
+UPDATE (PUT):
+Response: 200 OK
+
+DELETE:
+Response: 200 OK
+
+
+EASIEST WAY TO TEST
+===================
+
+1. Open browser: http://localhost:5104/swagger/index.html
+
+2. You'll see all endpoints with "Try it out" button
+
+3. Click "Try it out" on any endpoint
+
+4. Fill in the parameters
+
+5. Click "Execute"
+
+6. See the response!
+
+
+STOP THE SERVER
+===============
+
+In the terminal where the API is running:
+Press: Ctrl + C

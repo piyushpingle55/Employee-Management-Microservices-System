@@ -1,5 +1,6 @@
 using Employee.Domain.Entities;
 using EmployeeEntity = Employee.Domain.Entities.Employee;
+using Employee.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Employee.Infrastructure.Repositories;

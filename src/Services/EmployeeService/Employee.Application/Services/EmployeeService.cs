@@ -30,6 +30,10 @@ public class EmployeeService : IEmployeeService
     public async Task<EmployeeDto> GetById(Guid id)
     {
         var x = await _repo.GetById(id);
+        if (x == null)
+        {
+            throw new KeyNotFoundException("Employee not found");
+        }
 
         return new EmployeeDto
         {
@@ -69,6 +73,9 @@ public class EmployeeService : IEmployeeService
     public async Task Delete(Guid id)
     {
         var emp = await _repo.GetById(id);
-        await _repo.Delete(emp);
+        if (emp != null)
+        {
+            await _repo.Delete(emp);
+        }
     }
 }
