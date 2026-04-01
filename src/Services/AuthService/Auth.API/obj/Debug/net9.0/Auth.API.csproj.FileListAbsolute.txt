@@ -86,6 +86,7 @@ C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Archit
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Auth.API.pdb
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
@@ -104,6 +105,9 @@ C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Archit
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Admin\OneDrive\Desktop\Devops Assignment\My Project\Microservice Architecture\Employee-Management-Microservices-System\src\Services\AuthService\Auth.API\bin\Debug\net9.0\System.Drawing.Common.dll

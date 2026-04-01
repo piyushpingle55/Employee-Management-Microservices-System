@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Employee.Application.Interfaces;
 using Employee.Application.DTOs;
@@ -10,6 +11,7 @@ namespace Employee.API.Controllers;
 [ApiController]
 [Route("api/[controller]")]
 [Produces("application/json")]
+[Authorize]
 public class EmployeeController : ControllerBase
 {
     private readonly IEmployeeService _service;
